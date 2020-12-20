@@ -1,2 +1,2 @@
 # hello-world
-hello-world tutorial
+Tutorial for commiting changes to main branch.
